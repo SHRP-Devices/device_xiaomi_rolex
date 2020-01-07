@@ -87,3 +87,14 @@ TW_INCLUDE_FUSE_EXFAT := true
 
 # NTFS Support
 TW_INCLUDE_FUSE_NTFS := true
+
+#SHRP_Variables
+SHRP_PATH := device/xiaomi/rolex
+SHRP_MAINTAINER := Aarish
+SHRP_DEVICE_CODE := rolex
+SHRP_EDL_MODE := 1
+SHRP_EXTERNAL := /sdcard1
+SHRP_INTERNAL := /sdcard
+SHRP_OTG := /usbotg
+SHRP_FLASH := 1
+SHRP_REC := /dev/block/bootdevice/by-name/recovery

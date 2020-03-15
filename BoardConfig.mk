@@ -96,5 +96,7 @@ SHRP_EDL_MODE := 1
 SHRP_EXTERNAL := /sdcard1
 SHRP_INTERNAL := /sdcard
 SHRP_OTG := /usbotg
+SHRP_REC_TYPE := Treble
+SHRP_DEVICE_TYPE := A_Only
 SHRP_FLASH := 1
 SHRP_REC := /dev/block/bootdevice/by-name/recovery
